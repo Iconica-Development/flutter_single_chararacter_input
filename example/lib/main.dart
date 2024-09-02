@@ -3,7 +3,7 @@
 // SPDX-License-Identifier: BSD-3-Clause
 
 import 'package:flutter/material.dart';
-import 'package:flutter_single_character_input/single_character_input.dart';
+import 'package:flutter_single_character_input/flutter_single_character_input.dart';
 
 void main() {
   runApp(const MaterialApp(home: FlutterSingleCharacterInputDemo()));

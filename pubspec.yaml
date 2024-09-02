@@ -1,9 +1,12 @@
 name: flutter_single_character_input
 description: A new Flutter package project.
 version: 0.0.3
+repository: https://github.com/Iconica-Development/flutter_single_character_input
+
+publish_to: https://forgejo.internal.iconica.nl/api/packages/internal/pub
 
 environment:
-  sdk: ">=2.18.0 <3.0.0"
+  sdk: ">=3.0.0 <4.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
